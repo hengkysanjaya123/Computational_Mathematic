@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19abb982-4940-4db9-a7cd-8fecff621aa7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MidExamSimulation/Practice/test_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MidExamSimulation/Review/Simulation_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MidExamSimulation/Review/Simulation_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MidExamSimulation/Review/Simulation_otherclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MidExamSimulation/Practice/test3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidExamSimulation/Brens/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/MidExamSimulation/Brens/1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidExamSimulation/Practice/lat.py" beforeDir="false" afterPath="$PROJECT_DIR$/MidExamSimulation/Practice/lat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidExamSimulation/Practice/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/MidExamSimulation/Practice/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Review_Statistics_Class/case_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Review_Statistics_Class/case_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MidExamSimulation/20190410123834BN000144173_Mid Exam Simulation 2.docx" beforeDir="false" afterPath="$PROJECT_DIR$/MidExamSimulation/20190410123834BN000144173_Mid Exam Simulation 2.docx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MidExamSimulation/Review/Simulation_otherclass.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="82" column="24" lean-forward="true" selection-start-line="58" selection-end-line="82" selection-end-column="24" />
+            <state relative-caret-position="1122">
+              <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -35,10 +29,34 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Shared Material/other class/ANSWER.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="64" column="1" lean-forward="true" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+            <state relative-caret-position="152">
+              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MidExamSimulation/Practice/test3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="113">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MidExamSimulation/Brens/5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="47" column="14" lean-forward="true" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -94,7 +112,6 @@
         <option value="$PROJECT_DIR$/MidExamSimulation/Brens/4.py" />
         <option value="$PROJECT_DIR$/MidExamSimulation/Nams/1.py" />
         <option value="$USER_HOME$/AppData/Local/Temp/Session 07.ipynb" />
-        <option value="$PROJECT_DIR$/MidExamSimulation/Brens/5.py" />
         <option value="$PROJECT_DIR$/MidExamSimulation/Nams/2.py" />
         <option value="$PROJECT_DIR$/MidExamSimulation/Practice/2.py" />
         <option value="$PROJECT_DIR$/MidExamSimulation/Practice/1.py" />
@@ -107,12 +124,14 @@
         <option value="$PROJECT_DIR$/MidExamSimulation/Review/Simulation_2.py" />
         <option value="$PROJECT_DIR$/../Shared Material/other class/ANSWER.py" />
         <option value="$PROJECT_DIR$/MidExamSimulation/Review/Simulation_otherclass.py" />
+        <option value="$PROJECT_DIR$/MidExamSimulation/Brens/5.py" />
+        <option value="$PROJECT_DIR$/MidExamSimulation/Practice/test3.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="949" />
-    <option name="width" value="980" />
+    <option name="x" value="948" />
+    <option name="width" value="981" />
     <option name="height" value="1044" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -142,6 +161,12 @@
               <item name="PyCharm Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="PyCharm Projects" type="462c0819:PsiDirectoryNode" />
               <item name="MidExamSimulation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyCharm Projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyCharm Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="MidExamSimulation" type="462c0819:PsiDirectoryNode" />
+              <item name="Brens" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PyCharm Projects" type="b2602c69:ProjectViewProjectNode" />
@@ -187,7 +212,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Simulation_otherclass">
+  <component name="RunManager" selected="Python.test3">
+    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyCharm Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MidExamSimulation/Nams" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MidExamSimulation/Nams/2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyCharm Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MidExamSimulation/Brens" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MidExamSimulation/Brens/5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ANSWER" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PyCharm Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -201,48 +268,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Shared Material/other class/ANSWER.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Simulation_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PyCharm Projects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MidExamSimulation/Review" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MidExamSimulation/Review/Simulation_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Simulation_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PyCharm Projects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MidExamSimulation/Review" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MidExamSimulation/Review/Simulation_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -272,7 +297,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PyCharm Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -284,7 +309,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MidExamSimulation/Practice/test_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MidExamSimulation/Practice/test3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -295,11 +320,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test3" />
+        <item itemvalue="Python.5" />
+        <item itemvalue="Python.2" />
         <item itemvalue="Python.Simulation_otherclass" />
         <item itemvalue="Python.ANSWER" />
-        <item itemvalue="Python.Simulation_2" />
-        <item itemvalue="Python.Simulation_1" />
-        <item itemvalue="Python.test_2" />
       </list>
     </recent_temporary>
   </component>
@@ -318,20 +343,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37678856" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29332274" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32867134" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32867134" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3986014" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32978722" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32867134" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -430,26 +454,6 @@
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Session 06.ipynb" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/dataScience.ipynb" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/SVD.ipynb" />
-    <entry file="file://$PROJECT_DIR$/MidExamSimulation/Practice/2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MidExamSimulation/Brens/5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MidExamSimulation/Brens/Data.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -460,13 +464,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Gauss_elimination.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Gauss_elimination.ipynb" />
     <entry file="file://$PROJECT_DIR$/MidExamSimulation/Brens/1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -592,43 +590,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MidExamSimulation/Practice/1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="119" column="36" lean-forward="true" selection-start-line="119" selection-start-column="36" selection-end-line="119" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MidExamSimulation/Nams/2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="69" lean-forward="true" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="70" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TaylorSeries2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Images/Maclaurin Series polynomical cos.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Shared Material/other class/ANSWER.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="64" column="1" lean-forward="true" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
@@ -654,10 +619,73 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MidExamSimulation/Review/Simulation_otherclass.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="82" column="24" lean-forward="true" selection-start-line="58" selection-end-line="82" selection-end-column="24" />
+        <state relative-caret-position="1122">
+          <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Images/Maclaurin Series polynomical cos.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MidExamSimulation/Brens/5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="47" column="14" lean-forward="true" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MidExamSimulation/Practice/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="119" column="36" lean-forward="true" selection-start-line="119" selection-start-column="36" selection-end-line="119" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MidExamSimulation/Practice/2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MidExamSimulation/Nams/2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shared Material/other class/ANSWER.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MidExamSimulation/Practice/test3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>

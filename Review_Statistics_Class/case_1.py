@@ -3,13 +3,16 @@ from scipy import stats
 import matplotlib.pyplot as plt
 
 
-a = np.array([100, 110, 105, 102, 120, 100, 115, 107, 105, 107, 105])
+a = np.array([100, 110, 105, 102, 120, 100, 115, 107, 105, 120, 105])
 
 min = np.amin(a)
 print("min",min)
+print("Index min : ", np.argmin(a))
+
 
 max = np.amax(a)
 print("max" , max)
+print("Index max : ", np.argmax(a))
 
 result = np.where(a == min)
 print(result)

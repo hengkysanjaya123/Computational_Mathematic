@@ -2,6 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 data = np.array([12.5, 11.4, 15.7, 13.1, 12.9, 14.1]) # Sample data
+
 mean = data.mean()
 std = np.std(data, ddof=1)
 q = np.percentile(data, [25, 50, 75])
@@ -18,3 +19,4 @@ ax.set_xlim([0,2])
 ax.set_ylim([10,17])
 ax.set_title("Problem 1")
 plt.show()
+

@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 data = pd.read_csv("Data.csv")
-
+print(data)
 mean = data['Litre'].mean()
 std = data["Litre"].std()
 median = data['Litre'].median()

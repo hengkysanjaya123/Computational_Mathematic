@@ -25,7 +25,7 @@ ax.boxplot(data , positions = [0.8])
 ax.set_xlim( [0, 2] )
 ax.set_ylim( [10, 17])
 ax.set_title('Problem 1')
-plt.show()
+
 
 # 
 # Problem 2
@@ -93,6 +93,7 @@ ax = fig.add_subplot(2,3,2);
 ax.plot(x, y_rk6, label = 'RK6')
 ax.plot(x, y_python, label = 'Scipy')
 ax.legend()
+
 print('*** See Figure 100. I guess something is wrong with the formulas.')
 
 
@@ -106,7 +107,7 @@ print('========= PROBLEM 5 ==========')
 def Gauss( f, a, b):
     zeta  = np.array([-0.774597, 0.0, 0.774597])
     w = np.array([0.555556, 0.888889, 0.555556])
-    x = (b + a)/2 + (b-a)/2*zeta
+    x = (b + a)/2 + (b-a) / 2 * zeta
     area = (b - a)/2*np.sum( w * f(x) )
     return area
 

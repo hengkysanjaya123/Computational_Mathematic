@@ -36,8 +36,8 @@ print('========= PROBLEM 2 ==========')
 def mycos(x, n):
     total = 0
     for i in range( n ):
-        # total = total + (-1)**i * (8*x)**(2*i) / fact(2*i)
-        total = total + (-1)**i * (x)**(2*i) / fact(2*i)
+        total = total + (-1)**i * (8*x)**(2*i) / fact(2*i)
+        #total = total + (-1)**i * (x)**(2*i) / fact(2*i)
     return total
 
 x = 3/8*np.pi; n = 20

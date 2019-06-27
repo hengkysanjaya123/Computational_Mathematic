@@ -26,3 +26,4 @@ ax.boxplot(data , positions = [0.8])
 ax.set_xlim( [0, 2] )
 ax.set_ylim( [10, 17])
 ax.set_title('Problem 1')
+

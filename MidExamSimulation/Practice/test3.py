@@ -47,7 +47,7 @@ ax.text(2.05, up, 'ẍ+s = ' + str(round(up, 2)), fontsize=8)
 ax.text(2.05, mean, 'ẍ = ' + str(round(mean, 2)), fontsize=8)
 ax.text(2.05, down, 'ẍ-s = ' + str(round(down, 2)), fontsize=8)
 
-plt.boxplot([[], [], x])
+plt.boxplot(x, positions=[3])
 
 ax.text(3.2, Q[0], 'Q1 = ' + str(Q[0]), fontsize=8)
 ax.text(3.2, Q[1], 'Q2 = ' + str(Q[1]), fontsize=8)
@@ -55,5 +55,6 @@ ax.text(3.2, Q[2], 'Q3 = ' + str(Q[2]), fontsize=8)
 
 plt.xticks([1, 2, 3], ["Data", "Error Bar", "Boxplot"])
 
+ax.set_xlim([0, 4])
 plt.tight_layout()
 plt.show()

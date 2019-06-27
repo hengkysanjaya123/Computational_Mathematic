@@ -58,12 +58,13 @@ def ln1_x(x,n):
 
 
 print("\tB) ln(1-x) with x = 0.5 using the 8 and 16 terms of the series")
-firstvalue = ln1_x(0.5, 8)
-second = ln1_x(0.5, 16)
+x = 0.5
+firstvalue = ln1_x(x, 8)
+second = ln1_x(x, 16)
 print("\t\t8 : ", firstvalue)
 print("\t\t16 : ", second)
 
-logresult = math.log(0.5)
+logresult = math.log(1-x)
 print("\tC) math log function ln(1-x)")
 print("\t\tmath log : ", logresult)
 

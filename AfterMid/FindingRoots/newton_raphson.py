@@ -27,7 +27,7 @@ def newton(x1):
         
         if(abs(xt1- xt) <= 0.00000000001):
             print(xt)
-            #print(xt1)
+            print(xt1)
             break;
        
         print("difference ",abs(xt1- x1))

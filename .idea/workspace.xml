@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19abb982-4940-4db9-a7cd-8fecff621aa7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AfterMid/Interpolation/Lagrange.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AfterMid/Interpolation/Newton.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AfterMid/Interpolation/Quadratic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Gauss.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Maclaurin Series polynomical cos.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Screenshot (31).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/TrapezoidRules.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidExamSimulation/20190402145831BN000144173_Mid Exam Simulation 1.docx" beforeDir="false" afterPath="$PROJECT_DIR$/MidExamSimulation/20190402145831BN000144173_Mid Exam Simulation 1.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidExamSimulation/ANSWER.py" beforeDir="false" afterPath="$PROJECT_DIR$/MidExamSimulation/ANSWER.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidExamSimulation/Mid Exam Simulation.docx" beforeDir="false" afterPath="$PROJECT_DIR$/MidExamSimulation/Mid Exam Simulation.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidExamSimulation/Practice/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/MidExamSimulation/Practice/1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidExamSimulation/Practice/test3.py" beforeDir="false" afterPath="$PROJECT_DIR$/MidExamSimulation/Practice/test3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidExamSimulation/testMatplot.py" beforeDir="false" afterPath="$PROJECT_DIR$/MidExamSimulation/testMatplot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AfterMid/FindingRoots/newton_raphson.py" beforeDir="false" afterPath="$PROJECT_DIR$/AfterMid/FindingRoots/newton_raphson.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +20,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MidExamSimulation/Review-2/Simulation1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2098">
+            <state>
               <caret selection-end-column="23" />
             </state>
           </provider>
@@ -47,16 +33,14 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MidExamSimulation/Review-2/Simulation3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2242" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MidExamSimulation/Review-2/Simulation2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="23" column="29" lean-forward="true" selection-start-line="20" selection-end-line="23" selection-end-column="29" />
+            <state relative-caret-position="480">
+              <caret line="23" column="29" selection-start-line="20" selection-end-line="23" selection-end-column="29" />
               <folding>
                 <element signature="e#94#112#0" expanded="true" />
               </folding>
@@ -67,7 +51,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Review_Statistics_Class/case_3_eulerMethod.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
+            <state relative-caret-position="312">
               <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
@@ -79,7 +63,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Review_Statistics_Class/case_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
+            <state relative-caret-position="912">
               <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
@@ -91,8 +75,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AdditionalClass/4_basic_plots.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+            <state relative-caret-position="408">
+              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -104,7 +88,7 @@
         <entry file="file://$PROJECT_DIR$/AdditionalClass/3_linear_algebra.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -113,7 +97,7 @@
         <entry file="file://$PROJECT_DIR$/AdditionalClass/6_histogram_plot.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -218,18 +202,6 @@
               <item name="PyCharm Projects" type="b2602c69:ProjectViewProjectNode" />
               <item name="PyCharm Projects" type="462c0819:PsiDirectoryNode" />
               <item name="AfterMid" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PyCharm Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PyCharm Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="AfterMid" type="462c0819:PsiDirectoryNode" />
-              <item name="FindingRoots" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PyCharm Projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PyCharm Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="AfterMid" type="462c0819:PsiDirectoryNode" />
-              <item name="Interpolation" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -732,7 +704,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MidExamSimulation/Review-2/Simulation1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2098">
+        <state>
           <caret selection-end-column="23" />
         </state>
       </provider>
@@ -741,14 +713,12 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/MidExamSimulation/Review-2/Simulation3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2242" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/MidExamSimulation/Review-2/Simulation2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="23" column="29" lean-forward="true" selection-start-line="20" selection-end-line="23" selection-end-column="29" />
+        <state relative-caret-position="480">
+          <caret line="23" column="29" selection-start-line="20" selection-end-line="23" selection-end-column="29" />
           <folding>
             <element signature="e#94#112#0" expanded="true" />
           </folding>
@@ -757,7 +727,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Review_Statistics_Class/case_3_eulerMethod.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="312">
           <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
@@ -767,7 +737,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Review_Statistics_Class/case_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
+        <state relative-caret-position="912">
           <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
@@ -777,8 +747,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AdditionalClass/4_basic_plots.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        <state relative-caret-position="408">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
@@ -788,14 +758,14 @@
     <entry file="file://$PROJECT_DIR$/AdditionalClass/3_linear_algebra.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AdditionalClass/6_histogram_plot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>

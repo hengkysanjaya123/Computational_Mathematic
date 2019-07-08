@@ -96,7 +96,7 @@ def newtonRaphson_a( x ):
 
 print("Newton Rhapson algorithm : ",newtonRaphson_a(x=-3))
 
-
+    
 
 
 

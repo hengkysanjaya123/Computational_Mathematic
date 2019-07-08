@@ -4,7 +4,6 @@ Created on Mon Jul  8 14:03:30 2019
 
 @author: Hengky Sanjaya
 """
-#optimization
 
 import numpy as np
 

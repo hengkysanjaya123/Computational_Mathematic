@@ -36,7 +36,6 @@ def bisection(f, a , b ,e0):
 print(bisection(f, -4,-2, 0.05))
 
 
-
 def bisection2(x1, x2):
     xs = x1
     xe = x2
@@ -89,10 +88,12 @@ def newtonRaphson_a( x ):
 
 print("Newton Rhapson algorithm : ",newtonRaphson_a(-3))
 
+
 def newton(x1):
     xt = x1
         
     while(True):
+        
         fxt = f(xt)
         fxt_deriv = f_deriv(xt)
         xt1 = float(xt - fxt / fxt_deriv)
